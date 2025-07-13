@@ -35,6 +35,12 @@ Weatherly is a modern weather app built with React and TailwindCSS that beautifu
 
 -- Using LocalStorage for saving user preferences
 
+## Screenshots
+
+![Image](https://github.com/user-attachments/assets/af50d6b2-a291-4576-9693-f3cd6962924a)
+![Image](https://github.com/user-attachments/assets/3ed9940e-c5ac-4a58-a5d2-bc9cef09b4c4)
+![Image](https://github.com/user-attachments/assets/fbe6f98d-b1dd-455d-af90-d3b4fe09555f)
+
 ##Getting Started
 
 1. Clone the repo
