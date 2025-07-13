@@ -14,6 +14,8 @@ Weatherly is a modern weather app built with React and TailwindCSS that beautifu
 
 -- 3-day Forecast with animations
 
+-- Dark/Light Mode toggle
+
 -- Responsive & Mobile-first Design
 
 -- Glassmorphism aesthetic with ambient galaxy background
@@ -98,6 +100,10 @@ src/
 -- Location auto-detection via geolocation
 
 -- Graph view for forecast trends
+
+-- Credits
+Made with ❤️ by Tony Milanzi
+UI inspired by modern design trends and a love for the weather 
 
 ## License
 This project is licensed under the MIT License.
