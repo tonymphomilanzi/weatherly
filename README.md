@@ -1,4 +1,5 @@
 
+![Image](https://github.com/user-attachments/assets/3ed9940e-c5ac-4a58-a5d2-bc9cef09b4c4)
 
 Weatherly is a modern weather app built with React and TailwindCSS that beautifully blends design, voice interaction, and weather data. It leverages real-time weather info via Weather API and features glassmorphism UI, and even a voice-readout system that reads the weather aloud in a friendly tone.
 
@@ -38,7 +39,6 @@ Weatherly is a modern weather app built with React and TailwindCSS that beautifu
 ## Screenshots
 
 ![Image](https://github.com/user-attachments/assets/af50d6b2-a291-4576-9693-f3cd6962924a)
-![Image](https://github.com/user-attachments/assets/3ed9940e-c5ac-4a58-a5d2-bc9cef09b4c4)
 ![Image](https://github.com/user-attachments/assets/fbe6f98d-b1dd-455d-af90-d3b4fe09555f)
 
 ##Getting Started
